@@ -1,0 +1,2 @@
+# bd test
+ kurs work
