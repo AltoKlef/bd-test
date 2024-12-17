@@ -11,7 +11,6 @@ class DatabaseApp(QWidget):
 
         self.layout = QVBoxLayout()
 
-
         self.query_button = QPushButton("Получить стоимость услуг для клиентов")
         # Поле ввода для ID машины
         self.car_id_label = QLabel("Введите ID машины:")
